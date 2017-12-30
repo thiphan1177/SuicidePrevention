@@ -1,0 +1,62 @@
+p {
+font-family: 'Abril Fatface', cursive;
+font-family: 'Cormorant Garamond', serif;
+font-family: 'Rufina', serif;
+
+Font-Family: 'Cinzel', Cursive;
+Font-Family: 'Fauna One', Serif;
+
+
+Font-Family: 'Playfair Display', Serif;
+Font-Family: 'Source Sans Pro', Sans-Serif;
+font-size: 17px;
+
+}
+
+h1 {
+Font-Family: 'Playfair Display', Serif;
+font-size: 30px;
+
+
+}
+
+.navbar {
+Font-Family: 'Playfair Display', Serif;
+
+}
+
+.image-position {
+	position: relative;
+	text-align: center;
+	color: black;
+
+}
+
+.heading {
+	position: absolute;
+	top: 8px;
+	left: 16px;
+	text-align: left;
+
+}
+
+.words {
+	position: absolute;
+	top: 50px;
+	left: 16px;
+	width: 300px;
+	text-align: left;
+
+
+}
+
+.HOTLINElink {
+	position: absolute;
+	bottom: 8px;
+	left: 16px;
+	font-size: 40px;
+	color: white;
+	
+
+}
+
